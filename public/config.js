@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/Letstrollfun",
   "VITE_SEO_SITE_NAME": "Lets Troll DEX",
   "VITE_SEO_SITE_DESCRIPTION": "",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/letstrolldex-7950/",
+  "VITE_SEO_SITE_URL": "https://dex.letstroll.fun",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@Letstrollfun",
